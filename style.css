@@ -245,13 +245,6 @@ li a {
   text-decoration: none;
   padding: 14px 16px;
 }
-
-li a:hover {
-  /* background-color: grey; */
-}
-/* .second {
-  margin: 2rem 0;
-} */
 a {
   position: relative;
   text-decoration: none;
